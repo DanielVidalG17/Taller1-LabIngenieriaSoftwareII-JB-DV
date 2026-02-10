@@ -1,3 +1,6 @@
+//Daniel Alejandro Vidal Guevara
+//Jonatan David Bolaños Jojoa
+
 package com.figuras;
 
 public class Square extends Figure {
